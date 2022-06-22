@@ -1,3 +1,12 @@
 {
-
+    "users":[
+        {   "id":"089ed38a-6846-42a1-9548-9f42eb2b6313",
+            "email":"alexis@mysevensuite.com",
+            "password":"password123"
+        },{   
+            "id":"089ed38a-6846-42a1-9548-9f42eb2b6353",
+            "email":"fran@mysevensuite.com",
+            "password":"password123"
+        }
+    ]
 }
